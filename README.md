@@ -1,4 +1,4 @@
-## About Laravel
+## UTILIZAÇÃO EM AMBIENTE LOCAL OU REMOTO
 
 Para rodar esta aplicação em ambiente local faça o clone da mesma para sua máquina e depois rode:
 
